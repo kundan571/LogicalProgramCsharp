@@ -1,0 +1,15 @@
+C:\Users\kunda\source\repos\LogicalProgram\LogicalProgram\bin\Debug\net6.0\LogicalProgram.exe
+C:\Users\kunda\source\repos\LogicalProgram\LogicalProgram\bin\Debug\net6.0\LogicalProgram.deps.json
+C:\Users\kunda\source\repos\LogicalProgram\LogicalProgram\bin\Debug\net6.0\LogicalProgram.runtimeconfig.json
+C:\Users\kunda\source\repos\LogicalProgram\LogicalProgram\bin\Debug\net6.0\LogicalProgram.dll
+C:\Users\kunda\source\repos\LogicalProgram\LogicalProgram\bin\Debug\net6.0\LogicalProgram.pdb
+C:\Users\kunda\source\repos\LogicalProgram\LogicalProgram\obj\Debug\net6.0\LogicalProgram.csproj.AssemblyReference.cache
+C:\Users\kunda\source\repos\LogicalProgram\LogicalProgram\obj\Debug\net6.0\LogicalProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunda\source\repos\LogicalProgram\LogicalProgram\obj\Debug\net6.0\LogicalProgram.AssemblyInfoInputs.cache
+C:\Users\kunda\source\repos\LogicalProgram\LogicalProgram\obj\Debug\net6.0\LogicalProgram.AssemblyInfo.cs
+C:\Users\kunda\source\repos\LogicalProgram\LogicalProgram\obj\Debug\net6.0\LogicalProgram.csproj.CoreCompileInputs.cache
+C:\Users\kunda\source\repos\LogicalProgram\LogicalProgram\obj\Debug\net6.0\LogicalProgram.dll
+C:\Users\kunda\source\repos\LogicalProgram\LogicalProgram\obj\Debug\net6.0\refint\LogicalProgram.dll
+C:\Users\kunda\source\repos\LogicalProgram\LogicalProgram\obj\Debug\net6.0\LogicalProgram.pdb
+C:\Users\kunda\source\repos\LogicalProgram\LogicalProgram\obj\Debug\net6.0\LogicalProgram.genruntimeconfig.cache
+C:\Users\kunda\source\repos\LogicalProgram\LogicalProgram\obj\Debug\net6.0\ref\LogicalProgram.dll
